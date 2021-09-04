@@ -61,9 +61,9 @@ var data={
 
 		form:{
 			options:[
-				"राऊटर","हब","केबल","मॉडेम","रिपीटर","कोएक्सिअल केबल","मॉडेम","ब्राउज़र","coaxial","twisted pair","fiber optic","all of these","इंटरनेट दुनिया के किसी भी क्षेत्र के लोगों को आपस में जोड़ कर रख सकता है","कला तथा विज्ञान की जानकारियां प्राप्त करने का श्रोत","उपरोक्त दोनों","मनोरंजन तथा शिक्षा के लिए उपयुक्त नहीं है","घर बैठे खरीदने की सुबिधा","शिक्षा का अच्छा संसाधन","मनोरंजन का अच्छा साधन है","उपरोक्त सभी","Domain name","IP Address","Postal address","इनमें से कोई नहीं","node","computer","phone","none of these","हार्डवेयर उपकरणों को साझा(शेयर) करने के लिए","फाइल साझा(शेयर) करने के लिए","सूचनाों (इनफार्मेशन) को शेयर करने के लिए","इनमें से सभी","फाइबर ऑप्टिक्स","ट्विस्टेड पेयर","कॉक्ससियल","जी-मेल","यह मुफ्त नहीं है","प्राईवासी को खतरा","इंटरनेट स्रोतों पर विश्वसनीयता का अभाव","इनमें से सभी"
+				"Software","Hardware","User","None of these","Create document","Format document","Adjust the layout","All of these","Word Star","Lotus Word Pro","MacWriter","All of these","Excel application","drawing application","Word application","Tally application",".doc",".txt",".ppt",".xls","Line Delete","Line Jump","Line Spacing","(2) & ( 3 ) Both","4","2","1","3","Edit","File","View Menu","Chek Box","Operating system","Application Software","1 & 2 Both","None of these","Ctrl + X","Ctrl + V","1 & 2 Both","Ctrl + A","Software","Operating System","Folder","File","Copy","Rectangular Selection","Freeform Selection","Rectangular Selection & Freeform Selection दोनों","Ribbon","Toolbar","Drawingbar","File","Open","Select","All program","Paint","Start, all programs, accessories, paint","All programs, accessories, paint, start","Paint, all programs, accessories, start","All programs, start, accessories, paint","कलर पैलेट","मेनू बार","स्टेटस बार","उपरोक्त में से कोई नहीं","Noteped","Ms Paint","Calculator","उपरोक्त में से कोई नहीं","पेंसिल","फील विथ कलर","टेक्सट","इरेज़र","Icon","Delete Button","My Computer","Start Button","Right mouse button","Left mouse button","Scroll Wheel","इनमें से कोई नहीं","Ctrl+C","Ctrl+V","Ctrl+K","Ctrl+N","Page Setup","Page Orientation","Page Layout","Page Margin","Page Setup Dialog Box","Standard Toolbar","Formatting Toolbar","Header & Footer Dialog Box","मार्जिन, पेपर साइज, कलर","पेपर स्‍त्रोत, ले आउट","उपरोक्त दोनों","उपरोक्त में से कोई नहीं","फ़ाइल का रूप","फ़ाइल का नाम","फ़ाइल का प्रकार","उपरोक्त में से कोई नहीं"
 			],
-			action:"https://docs.google.com/forms/u/0/d/e/1FAIpQLSfYi1SpUldztZ3y6-T6rxZYlVSiTGU_Kke4jE_1rIoqL9-HPw/formResponse",
+			action:"https://docs.google.com/forms/d/e/1FAIpQLScwbtuEX2sO5pI1aFxnkernXFYxzAU7ZIDT9bCmjf-iSrIDVA/formResponse",
 			defaultTags:()=>{
 				return `
 				<input name="entry.1270814050" value="BCCL-JH-ICT2-PAL-094 [ RAJKIYEKRIT SURAT HIGH SCHOOL LOHRA ]">
@@ -76,9 +76,9 @@ var data={
 				<input name="entry.919860739" value="${gender}">
 
 				<input name="pageHistory" value="0,1,2">
-				<input name="fbzx" value="-3292091158912884123">`
+				<input name="fbzx" value="2055812261201590731">`
 			},
-			questionList:["entry.495896061","entry.1991715859","entry.571884822","entry.30956754","entry.267036458","entry.1841020424","entry.2095324795","entry.400517983","entry.1514695595","entry.563420953"]
+			questionList:["entry.1895883406","entry.450355357","entry.1284904058","entry.916679564","entry.238629542","entry.682986720","entry.1161368412","entry.1520078659","entry.1057522759","entry.1758772272","entry.1215386439","entry.1943758776","entry.788872138","entry.1193620013","entry.1831409065","entry.477652656","entry.229130841","entry.1166684027","entry.329261897","entry.891680793","entry.1710125064","entry.1500945263","entry.1781252479","entry.1999802559","entry.1374043504"]
 		}
 	},
 
@@ -94,9 +94,9 @@ var data={
 
 		form:{
 			options:[
-				"Word Processing Program","Presentation","Spread Sheet Program","none of these","A 16384","IBI","A1","B1","एक्सेल शीट (Excel Sheet)","वर्कशीट (Worksheet)","एक्सेल वर्कशीट (Excel Worksheet)","वर्कबुक (Work Book)","फॉर्मेटिंग टूल बार (Formatting Toolbar)","ऑटों फॉर्मेटिंग कमाण्‍ड (Auto Formatting Command)","फॉर्मेट मेन्‍यू (Format Menu)","इनमें से कोई नहीं (None of Above)","टाइटल बार (Tittle Bar)","मेन्यु बार (Menu Bar)","फॉर्मेटिंग बार (Formatting Bar)","कोई नहीं (None of Above)","फोर्मेट मेन्यु से","डाटा मेन्यु से","टूल मेन्यु से","इनर्स्‍ट मेन्यु से","=","*","–","/",".GIF",".BMP",".JPG",".XLS","cell","square box","row","column","डेटा को उचित प्रारूप में व्यवस्थित करने के लिए","डेटा को उचित प्रारूप में व्यवस्थित करने के लिए","डेटा को उचित प्रारूप में व्यवस्थित करने के लिए","डेटा को उचित प्रारूप में व्यवस्थित करने के लिए"
+				"डेटा स्टोर करने","डेट व्यवस्थित करने","उपरोक्त दोनों","इनमें से की नहीं","cell","column","row","none of these","count, sum, average, percentage etc","chart, graph","Data Analysis","उपरोक्त सभी","To find the largest value","To find the Smallest value","To find the mid value","None of these","एम एस एक्सेल","गूगल शीट","लिब्रेऑफिस कैल्क","एम एस वर्ड","A1","1A","*A","=A","Insert Cell","Delete Cell","Format Celll","इनमे से कोई नहीं","Horizontally","Vertical","Freeze","उपरोक्त सभी","Ctrl+ F","Alt+ F","Ctrl+ W","Alt+ W","=sum","sum =","=sum(address1:address2)","इनमे से कोई नहीं","Phishing","Bulling","Stalking","Identity thef","Malware","Spyware","Adware","All of the above","Antivirus","Firewall","Cookies","Malware","Piracy","Plagiarism","Intellectual property rights","All of the above","Information Tech Act -2000","Indian Technology Act -2000","International Technology Act -2000","Information Technology Act -2000","पासवर्ड अटैक","फिशिंग","मेल वायर इंजिग","डिनायल ऑफ़ सर्विसेज","जिन वेबसाइट के एड्रेस की शुरुआत में https:// नहीं होता है","जिन वेबसाइट में पेडालॉक नहीं होता है","जिन वेबसाइट में पेडालॉक नहीं होता है व जिन वेबसाइट के एड्रेस की शुरुआत में https:// नहीं होता है दोनों","उपरोक्त में से कोई नहीं","पासवर्ड अटेक","डिनायल ऑफ़ सर्विसेज","फिशिंग","उपरोक्त सभी","आय कर","औद्यागिक प्रौद्योगिकी","सूचना प्रौद्योगिकी","इनसाइडर ट्रेडिंग","उसे अपने ईमेल प्रदाता के माध्यम से फ़िशिंग/स्पैम के रूप में रिपोर्ट करेंगे","कुछ नहीं करेंगे","संदेश को अपने ईमेल और पासवर्ड के सथा उत्तर देंगे।","इनसे में कोई भी नहीं","International Organization for Standardization","International Organization for Security","International Standardization for Operations","Indian Standard Organization","कॉपीराइट","हैकिंग","विश्वासघात","साइबर धोखाधड़ी","ISO2700","ISO27001","ISO27002","ISO27003","स्पाईवेयर","टोजनहॉर्स","वायरस","उपरोक्त सभी","कंप्यूटर इनपुट प्रदान करने में बाधाएं","आउटपुट की व्याख्या करना","सहायक दस्तावेज पढ़ना","उपरोक्त में से सभी"
 			],
-			action:"https://docs.google.com/forms/u/0/d/e/1FAIpQLSd0k9foG-yGQSFqGexCDgvbtsLFQnlK8g03-Wz-epNpg2RSDw/formResponse",
+			action:"https://docs.google.com/forms/d/e/1FAIpQLSeXPwnpYobqQuBu_QfJVISmROLjFi6fCofYHJHGI-l175iYBA/formResponse",
 			defaultTags:()=>{
 				return `
 				<input name="entry.658528083" value="BCCL-JH-ICT2-PAL-094 [ RAJKIYEKRIT SURAT HIGH SCHOOL LOHRA ]">
@@ -109,9 +109,9 @@ var data={
 				<input name="entry.919860739" value="${gender}">
 
 				<input name="pageHistory" value="0,1,2">
-				<input name="fbzx" value="6495920610233143188">`
+				<input name="fbzx" value="3869625210270808250">`
 			},
-			questionList:["entry.682789219","entry.2014999775","entry.1542563417","entry.544709184","entry.94210164","entry.759049708","entry.1227830928","entry.829615930","entry.1033427120","entry.1096926792"]
+			questionList:["entry.2141135245","entry.742849946","entry.2071153655","entry.1263948529","entry.1542441521","entry.1064001019","entry.2132859938","entry.103281991","entry.97743496","entry.1303307375","entry.600251233","entry.501567248","entry.2117660976","entry.1212645235","entry.750161773","entry.1026268247","entry.1499154056","entry.559762458","entry.1066893185","entry.1172098696","entry.1232192277","entry.766694947","entry.1620278293","entry.749169241","entry.1842052344"]
 		}
 	},
 

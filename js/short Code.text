@@ -20,4 +20,5 @@ setTimeout(()=>{
 	options.forEach(val=>{str+=`${val.innerText}","`});
 
 	alert(str);
+	console.log(str);
 },500)

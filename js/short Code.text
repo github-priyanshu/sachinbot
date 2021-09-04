@@ -1,0 +1,23 @@
+alert(document.forms[0].action);
+
+alert(fbzx=document.querySelector("input[name=fbzx]").value);
+
+document.querySelectorAll("label").forEach(val=>{val.click()});
+
+var str='"';
+
+setTimeout(()=>{
+	var questionsIn=document.querySelectorAll("div[jsname=o6bZLc] input");
+
+	questionsIn.forEach(val=>{str+=val.name+'","'});
+
+	console.log(str);
+
+	str='';
+
+	var options=document.querySelectorAll(".docssharedWizToggleLabeledLabelWrapper");
+
+	options.forEach(val=>{str+=`${val.innerText}","`});
+
+	alert(str);
+},500)

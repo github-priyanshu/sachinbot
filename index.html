@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script>
+    var log=console.log;
+    function op(elem){return document.querySelector(elem)}
+    function opp(elem){return document.querySelectorAll(elem)}
+  </script>
+  <style>
+    iframe{
+      height: 200px;
+    }
+    
+  </style>
+</head>
+
+<style>
+  .sendBox{
+    display: none;
+  }
+</style>
+<body>
+  <h1>Class <span id="clsShow"></span></h1>
+  <div class="qBox">
+    <div class="top">
+      <div>Choose Class</div>
+      <select id="clsIn" onchange="selectCls(this)" value="9">
+        <option value="9">9</option>
+        <option value="10">10</option>
+        <option value="11">11</option>
+        <option value="12">12</option>
+      </select>
+    </div>
+    <br>
+    <div class="bot">
+      <div class="chooseFake">
+        <div>Choose 1 out of 2</div>
+        <label><input type="radio" name="for" value="" onclick="fakeOrReal(this)"><span>Fake</span></label>
+        <label><input type="radio" name="for" value="true" onclick="fakeOrReal(this)"><span>Real</span></label>
+      </div>
+    </div>
+    <br>
+    <button class="btn" onclick="next()">Next</button>
+  </div>
+
+  <div class="sendBox">
+    <div>Sent: <span id="sent">0</span></div>
+    <button onclick="start()">start</button>
+    <button onclick="stop()">stop</button>
+    <div class="formBox"></div>
+  </div>
+
+  <!-- interface -->
+
+  <script src="js/interface.js"></script>
+  <script src="js/varData.js"></script>
+  <script src="js/addStudentData.js"></script>
+  <script src="js/send.js"></script>
+</body>
+</html>

@@ -3,9 +3,9 @@ var data={
 		student:{},
 		form:{
 			options:[
-				"Software","Operating System","Folder","File","Copy","Rectangular Selection","Freeform Selection","Rectangular Selection & Freeform Selection दोनों","Ribbon","Toolbar","Drawingbar","File","Open","Select","All program","Paint","Start, all programs, accessories, paint","All programs, accessories, paint, start","Paint, all programs, accessories, start","All programs, start, accessories, paint","कलर पैलेट","मेनू बार","स्टेटस बार","उपरोक्त में से कोई नहीं","Noteped","Ms Paint","Calculator","उपरोक्त में से कोई नहीं","पेंसिल","फील विथ कलर","टेक्सट","इरेज़र","Icon","Delete Button","My Computer","Start Button","Right mouse button","Left mouse button","Scroll Wheel","इनमें से कोई नहीं","MS paint","GIMP","Adobe Photoshop","None of the above","GNU Image Manipulation Program","GNU Image Multiplication Program","GNU Image Making Program","GNU Image Masking Program","image editting","draw images","both 1 and 2","none of the above","Create a shape","Change the size","Paint with a brush","Duplicate an area","Each individual transparency","Every individual transparency","Both a&b","None of these","Merging","Scaled","Renaming","Masking",". XCF",". TIFF",". BMP",". PNG","Ellipse","Rectangle","Free select tool","Fuzzy select tool","ctrl+o","shift+o","ctrl+shift +o","ctrl+p","Path","Color picker","Fuzzy","Scissors select","सिस्टम सॉफ्टवेयर को","कंप्यूटर के सॉफ्टवेयर को","कंप्यूटर की प्रोसेसिंग छमता को बढ़ाने में और चलाने के लिए डिजाईन किए गए प्रोग्राम को","इनमे से कोई नहीं","हार्डवेयर","फर्मवेयर","एप्लीवेयर","इनमे से कोई नहीं","हार्डवेयर","नेटवर्क","सॉफ्टवेयर","फर्मवेयर","हार्डवेयर","सॉफ्टवेयर","आइकॉन","इनफार्मेशन","Recycle Bin","Data Folder","Taskbar","Toolbar"
+			"CTRL + ENTER","ALT +ENTER","SHIFT + ENTER","None Of These","Pixel","Cell","Track","None of these","हैडर","फुटनोट","टाइटल","फूटर","ड्रा टेबल","मेक टेबल","इन्सर्ट टेबल","इनमे से कोई नहीं","मर्ज सेल","स्प्लिट सेल","स्प्लिट टेबल","इनमे से कोई नहीं","फॉर्मेटिंग","स्टैण्डर्ड","हेडर और फूटर","एडिट","ctrl+f3","shift+f7","ctrl+f4","alt+f4","edit","ctrl+shift+n","shift+n","non of these","Calc","Write","Calc Writer","Math","wort art & clip art","text and image","audio & animation","page No. & page boarder"
 			],
-			action:"https://docs.google.com/forms/d/e/1FAIpQLScQrmtbM38rP37snCzCG-AudcsmePJEBAmjL3L8TB6Bs4y20A/formResponse",
+			action:"https://docs.google.com/forms/d/e/1FAIpQLScexdEQl6X2mvjvnomfvXZI8sTwrDdHqYsDlheiUHE94_uvQQ/formResponse",
 			defaultTags:()=>{
 				return `
 				<input name="entry.597671524" value="BCCL-JH-ICT2-PAL-094 [ RAJKIYEKRIT SURAT HIGH SCHOOL LOHRA ]">
@@ -18,9 +18,11 @@ var data={
 				<input name="entry.919860739" value="${gender}">
 
 				<input type="text" name="pageHistory" value="0,1,2">
-				<input name="fbzx" value="6269553017799146947">
+				<input name="fbzx" value="762492976792529495">
 			`},
-			questionList:["entry.789108868","entry.1746143486","entry.633390530","entry.2077927003","entry.4113080","entry.869620021","entry.1428614093","entry.480053967","entry.917905424","entry.364234929","entry.551667713","entry.1505537411","entry.47766376","entry.653349996","entry.974796201","entry.10653814","entry.33443724","entry.1239681140","entry.1929222780","entry.303087998","entry.1387255445","entry.2104509846","entry.1515713487","entry.1876271718","entry.682507840"]
+			questionList:[
+			"entry.1955869937","entry.12252683","entry.704703111","entry.123776397","entry.1952155128","entry.1039276638","entry.824443347","entry.721142350","entry.1642689544","entry.870906431"
+			]
 		}
 	},
 

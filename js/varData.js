@@ -65,7 +65,7 @@ var data={
 
 		form:{
 			options:[
-				"Messaging","Copy","Excel","ppt","Electronic","Election","Electric","Electricity","Audio","Video","Images","उपरोक्त सभी","मोबाइल","बैंक","स्कूल या कॉलेज","सभी में","E-mail","I-Mail","Gmail","इनमे से कोई नहीं","Yahoo Mail","Gmail","iCloud mail","NetEase Mail","GOOGLE","APPLE","YAHOO","इनमे से कोई नहीं","PowerPoint","Inbox","Spam","Draft","Block Carbon Copy","Blind Carbon Copy","Blank Copy","इनमे से कोई नहीं","Mailbox","Subject","URL","इनमे से कोई नहीं"
+				"Messaging","Copy","Excel","ppt","Electronic","Election","Electric","Electricity","Images","Images","Images","Images","मोबाइल","बैंक","स्कूल या कॉलेज","सभी में","E-mail","I-Mail","Gmail","इनमे से कोई नहीं","Yahoo Mail","Gmail","iCloud mail","NetEase Mail","GOOGLE","APPLE","YAHOO","इनमे से कोई नहीं","PowerPoint","Inbox","Spam","Draft","Block Carbon Copy","Blind Carbon Copy","Blank Copy","इनमे से कोई नहीं","Mailbox","Subject","URL","इनमे से कोई नहीं"
 			],
 			action:"https://docs.google.com/forms/d/e/1FAIpQLSfOZe2IZCZ4Y0xkNYgk3W3OMLXjWjvg0gIF9UZNMSBNRADl9Q/formResponse",
 			defaultTags:()=>{

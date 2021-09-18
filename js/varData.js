@@ -3,9 +3,9 @@ var data={
 		student:{},
 		form:{
 			options:[
-			"CTRL + ENTER","ALT +ENTER","SHIFT + ENTER","None Of These","Pixel","Cell","Track","None of these","हैडर","फुटनोट","टाइटल","फूटर","ड्रा टेबल","मेक टेबल","इन्सर्ट टेबल","इनमे से कोई नहीं","मर्ज सेल","स्प्लिट सेल","स्प्लिट टेबल","इनमे से कोई नहीं","फॉर्मेटिंग","स्टैण्डर्ड","हेडर और फूटर","एडिट","ctrl+f3","shift+f7","ctrl+f4","alt+f4","edit","ctrl+shift+n","shift+n","non of these","Calc","Write","Calc Writer","Math","wort art & clip art","text and image","audio & animation","page No. & page boarder"
+			"Insert","Format","Tools","View","Characters","Formats","Symbols","All of these","Ctrl+N","Ctrl+M","Ctrl+I","Ctrl+X","Auto Summarize","Auto text","Macro","Auto correct","Ctrl + A","Ctrl + B","Ctrl + X","None of these","To Delete Text Formatting","To Clear Text Formatting","To Change Page Color","All of these","Ctrl + J","Ctrl + E","Ctrl + R","Ctrl + Shift + J","Size","Orientation",'Both "A" & "B"',"Column","WordArt","Drop Cap","Text Box","None","माइक्रोसॉफ्ट","गूगल","एप्पल","इनमें से कोई नहीं"
 			],
-			action:"https://docs.google.com/forms/d/e/1FAIpQLScexdEQl6X2mvjvnomfvXZI8sTwrDdHqYsDlheiUHE94_uvQQ/formResponse",
+			action:"https://docs.google.com/forms/d/e/1FAIpQLSfAafQtCpi1gd1_Mtb7LJKgVPvDdmvRkmQ-3YxCVvwcHKEChA/formResponse",
 			defaultTags:()=>{
 				return `
 				<input name="entry.597671524" value="BCCL-JH-ICT2-PAL-094 [ RAJKIYEKRIT SURAT HIGH SCHOOL LOHRA ]">
@@ -18,10 +18,10 @@ var data={
 				<input name="entry.919860739" value="${gender}">
 
 				<input type="text" name="pageHistory" value="0,1,2">
-				<input name="fbzx" value="762492976792529495">
+				<input name="fbzx" value="2777765288943346142">
 			`},
 			questionList:[
-			"entry.1955869937","entry.12252683","entry.704703111","entry.123776397","entry.1952155128","entry.1039276638","entry.824443347","entry.721142350","entry.1642689544","entry.870906431"
+			"entry.1105691639","entry.1970297018","entry.1194869833","entry.762784145","entry.532970975","entry.63650200","entry.1093729509","entry.1182523708","entry.228776179","entry.1507754714"
 			]
 		}
 	},

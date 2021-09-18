@@ -65,9 +65,9 @@ var data={
 
 		form:{
 			options:[
-				"Messaging","Copy","Excel","ppt","Electronic","Election","Electric","Electricity","Images","Images","Images","Images","मोबाइल","बैंक","स्कूल या कॉलेज","सभी में","E-mail","I-Mail","Gmail","इनमे से कोई नहीं","Yahoo Mail","Gmail","iCloud mail","NetEase Mail","GOOGLE","APPLE","YAHOO","इनमे से कोई नहीं","PowerPoint","Inbox","Spam","Draft","Block Carbon Copy","Blind Carbon Copy","Blank Copy","इनमे से कोई नहीं","Mailbox","Subject","URL","इनमे से कोई नहीं"
+				"Word Processing Program","Presentation","Spread Sheet Program","None of these","डेटा स्टोर करने","डेट व्यवस्थित करने","उपरोक्त दोनों","इनमें से कीई नहीं","एम एस एक्सेल","गूगल शीट","लिब्रेऑफिस कैल्क","एम एस वर्ड","Insert Cell","Delete Cell","Format Celll","इनमे से कोई नहीं","A 16384","IBI","A1","B1","एक्सेल शीट (Excel Sheet)","वर्कशीट (Worksheet)","एक्सेल वर्कशीट (Excel Worksheet)","वर्कबुक (Work Book)","टाइटल बार (Tittle Bar)","मेन्यु बार (Menu Bar)","फॉर्मेटिंग बार (Formatting Bar)","कोई नहीं (None of Above)","फोर्मेट मेन्यु से","डाटा मेन्यु से","टूल मेन्यु से","इनर्स्‍ट मेन्यु से","=","*","–","/","cell","square box","row","column"
 			],
-			action:"https://docs.google.com/forms/d/e/1FAIpQLSfOZe2IZCZ4Y0xkNYgk3W3OMLXjWjvg0gIF9UZNMSBNRADl9Q/formResponse",
+			action:"https://docs.google.com/forms/d/e/1FAIpQLScTydufM6FdqPvenqHmsc6cFq5SAZFcnijiwRF6nh4OcOYODA/formResponse",
 			defaultTags:()=>{
 				return `
 				<input name="entry.1270814050" value="BCCL-JH-ICT2-PAL-094 [ RAJKIYEKRIT SURAT HIGH SCHOOL LOHRA ]">
@@ -80,10 +80,10 @@ var data={
 				<input name="entry.919860739" value="${gender}">
 
 				<input name="pageHistory" value="0,1,2">
-				<input name="fbzx" value="3375528895304106637">`
+				<input name="fbzx" value="-4495963129255740677">`
 			},
 			questionList:[
-			"entry.1019191142","entry.1617823604","entry.1020284696","entry.362208212","entry.755309480","entry.394302259","entry.807886439","entry.1654589482","entry.798110205","entry.1504311434"
+			"entry.1641885463","entry.651444691","entry.827390664","entry.940915900","entry.1787333450","entry.1451887535","entry.1443611257","entry.1582506996","entry.1414099113","entry.363758429"
 			]
 		}
 	},

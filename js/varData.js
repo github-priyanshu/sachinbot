@@ -65,7 +65,7 @@ var data={
 
 		form:{
 			options:[
-				"Word Processing Program","Presentation","Spread Sheet Program","None of these","डेटा स्टोर करने","डेट व्यवस्थित करने","उपरोक्त दोनों","इनमें से कीई नहीं","एम एस एक्सेल","गूगल शीट","लिब्रेऑफिस कैल्क","एम एस वर्ड","Insert Cell","Delete Cell","Format Celll","इनमे से कोई नहीं","A 16384","IBI","A1","B1","एक्सेल शीट (Excel Sheet)","वर्कशीट (Worksheet)","एक्सेल वर्कशीट (Excel Worksheet)","वर्कबुक (Work Book)","टाइटल बार (Tittle Bar)","मेन्यु बार (Menu Bar)","फॉर्मेटिंग बार (Formatting Bar)","कोई नहीं (None of Above)","फोर्मेट मेन्यु से","डाटा मेन्यु से","टूल मेन्यु से","इनर्स्‍ट मेन्यु से","=","*","–","/","cell","square box","row","column"
+				"Word Processing Program","Presentation","Spread Sheet Program","None of these",`डेटा स्टोर करने`,`डेट व्यवस्थित करने`,`उपरोक्त दोनों`,`उपरोक्त दोनों`,"एम एस एक्सेल","गूगल शीट","लिब्रेऑफिस कैल्क","एम एस वर्ड","Insert Cell","Delete Cell","Format Celll","इनमे से कोई नहीं","A 16384","IBI","A1","B1","एक्सेल शीट (Excel Sheet)","वर्कशीट (Worksheet)","एक्सेल वर्कशीट (Excel Worksheet)","वर्कबुक (Work Book)","टाइटल बार (Tittle Bar)","मेन्यु बार (Menu Bar)","फॉर्मेटिंग बार (Formatting Bar)","कोई नहीं (None of Above)","फोर्मेट मेन्यु से","डाटा मेन्यु से","टूल मेन्यु से","इनर्स्‍ट मेन्यु से","=","*","–","/","cell","square box","row","column"
 			],
 			action:"https://docs.google.com/forms/d/e/1FAIpQLScTydufM6FdqPvenqHmsc6cFq5SAZFcnijiwRF6nh4OcOYODA/formResponse",
 			defaultTags:()=>{

@@ -3,7 +3,7 @@ var data={
 		student:{},
 		form:{
 			options:[
-			"Insert","Format","Tools","View","Characters","Formats","Symbols","All of these","Ctrl+N","Ctrl+M","Ctrl+I","Ctrl+X","Auto Summarize","Auto text","Macro","Auto correct","Ctrl + A","Ctrl + B","Ctrl + X","None of these","To Delete Text Formatting","To Clear Text Formatting","To Change Page Color","All of these","Ctrl + J","Ctrl + E","Ctrl + R","Ctrl + Shift + J","Size","Orientation",'Both "A" & "B"',"Column","WordArt","Drop Cap","Text Box","None","माइक्रोसॉफ्ट","गूगल","एप्पल","इनमें से कोई नहीं"
+			"Insert","Format","Tools","View","Characters","Formats","Symbols","All of these","Ctrl+N","Ctrl+M","Ctrl+I","Ctrl+X","Auto Summarize","Auto text","Macro","Auto correct","Ctrl + A","Ctrl + B","Ctrl + X","None of these","To Delete Text Formatting","To Clear Text Formatting","To Change Page Color","All of these","Ctrl + J","Ctrl + E","Ctrl + R","Ctrl + Shift + J","Size","Size","Orientation","Column","WordArt","Drop Cap","Text Box","None","माइक्रोसॉफ्ट","गूगल","एप्पल","इनमें से कोई नहीं"
 			],
 			action:"https://docs.google.com/forms/d/e/1FAIpQLSfAafQtCpi1gd1_Mtb7LJKgVPvDdmvRkmQ-3YxCVvwcHKEChA/formResponse",
 			defaultTags:()=>{

@@ -30,9 +30,9 @@ var data={
 		student:{},
 		form:{
 			options:[
-				"Scratch","Tempo","Sprite","All Of The Above","Text","Numeric","Picture","Video","Monitor","Projector","End User","Painter","Delete","Enter","backspace","space","Circle","Square","Rectangle","Oval","Variable में।","Program में।","Memory में।","None of these","ELSE","THEN","ELSIF","WHEN","Concurrent","Sequential","Assignment","Selected Assignment","Sound","Images","Animation","Video","Beats per second","Beats per minute","bytes per second","bits per second"
+				"Spirit","Sprite","Split","None of these","Text","Numeric","Picture","Video","Delete","Enter","backspace","space","Circle","Square","Rectangle","Oval","Sound","Images","Animation","Video","Stage","Backdrop","A & B","None of these","ये स्क्रिप्ट अन्य स्क्रिप्ट को सक्रिय कर सकती हैं","पूरे कार्यक्रम को सक्षम कर सकती हैं","उपरोक्त दोनों","इनमें से कोई नहीं","LibreOffice Calc","MS Word","Scratch","None of these","A recipe","A flow chart","A set of instructions","A control block","Free","Secure","A & B","None of these"
 			],
-			action:"https://docs.google.com/forms/d/e/1FAIpQLSc-r4b8X8az7_-8YXPWMSRU3-7DAmmMJxHX1WgCm6vGn_PQvw/formResponse",
+			action:"https://docs.google.com/forms/d/e/1FAIpQLSd4g1Vpx2IfH3XugNt1KCEnDbJaBrYCFvrV9JRKq8f5TQhWTw/formResponse",
 			defaultTags:()=>{
 				return `
 				<input name="entry.1794899332" value="BCCL-JH-ICT2-PAL-094 [ RAJKIYEKRIT SURAT HIGH SCHOOL LOHRA ]">
@@ -45,11 +45,11 @@ var data={
 				<input name="entry.919860739" value="${gender}">
 
 				<input name="pageHistory" value="0,1,2">
-				<input name="fbzx" value="8206625321620636990">
+				<input name="fbzx" value="-3634776146481724105">
 				`
 			},
 			questionList:[
-			"entry.2143319819","entry.577919629","entry.910946363","entry.1290390412","entry.1753374106","entry.1082109704","entry.281177373","entry.1948237999","entry.275918241","entry.365912161"
+			"entry.66599500","entry.207191365","entry.1860937243","entry.384247161","entry.1028720914","entry.1418258534","entry.88740491","entry.1200885993","entry.351384791","entry.1648867255"
 			]
 		}
 	},

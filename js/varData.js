@@ -3,9 +3,9 @@ var data={
 		student:{},
 		form:{
 			options:[
-			"Insert","Format","Tools","View","Characters","Formats","Symbols","All of these","Ctrl+N","Ctrl+M","Ctrl+I","Ctrl+X","Auto Summarize","Auto text","Macro","Auto correct","Ctrl + A","Ctrl + B","Ctrl + X","None of these","To Delete Text Formatting","To Clear Text Formatting","To Change Page Color","All of these","Ctrl + J","Ctrl + E","Ctrl + R","Ctrl + Shift + J","Size","Size","Orientation","Column","WordArt","Drop Cap","Text Box","None","माइक्रोसॉफ्ट","गूगल","एप्पल","इनमें से कोई नहीं"
+				"मशीन लैंग्वेज","ह्यूमन लैंग्वेज","असेम्ब्ली लैंग्वेज","हाई लेवल लैंग्वेज","सॉफ्टवेयर","हार्डवेयर","खेल","कोई नहीं","higher text transfer protocol","higher transfer tex protocol","hybrid text transfer protocol","hyper text transfer protocol","RAM","ROM","SD कार्ड","कैमरा","सॉफ्टवेयर","हार्डवेयर","पेंसिल","इरेज़र","आउटपुट","इनपुट","दोनों","कोई नहीं","1024 KB","1024 MB","1024 GB","1024 TB","जॉन माउक्ली","ब्लेज पास्कल","हावर्ड आइकन","इनमें से कोई नहीं","डिजिटल कंप्यूटर","ऑप्टिकल कंप्यूटर","हाइब्रिड कंप्यूटर","एनालॉग कंप्यूटर","प्रथम पीढ़ी","द्वितीय पीढ़ी","तृतीय पीढ़ी","चतुर्थ पीढ़ी"
 			],
-			action:"https://docs.google.com/forms/d/e/1FAIpQLSfAafQtCpi1gd1_Mtb7LJKgVPvDdmvRkmQ-3YxCVvwcHKEChA/formResponse",
+			action:"https://docs.google.com/forms/d/e/1FAIpQLSfB8n9U9hLmzXa6OEDv2ftY41NvxZA9lV_ibsoQHwqwao8OHg/formResponse",
 			defaultTags:()=>{
 				return `
 				<input name="entry.597671524" value="BCCL-JH-ICT2-PAL-094 [ RAJKIYEKRIT SURAT HIGH SCHOOL LOHRA ]">
@@ -18,11 +18,9 @@ var data={
 				<input name="entry.919860739" value="${gender}">
 
 				<input type="text" name="pageHistory" value="0,1,2">
-				<input name="fbzx" value="2777765288943346142">
+				<input name="fbzx" value="4366886521389243096">
 			`},
-			questionList:[
-			"entry.1105691639","entry.1970297018","entry.1194869833","entry.762784145","entry.532970975","entry.63650200","entry.1093729509","entry.1182523708","entry.228776179","entry.1507754714"
-			]
+			questionList:["entry.1906521034","entry.327018960","entry.744228893","entry.1303771023","entry.618210179","entry.426719526","entry.1775212595","entry.930995465","entry.474235462","entry.171310805"]
 		}
 	},
 
@@ -30,9 +28,9 @@ var data={
 		student:{},
 		form:{
 			options:[
-				"Spirit","Sprite","Split","None of these","Text","Numeric","Picture","Video","Delete","Enter","backspace","space","Circle","Square","Rectangle","Oval","Sound","Images","Animation","Video","Stage","Backdrop","A & B","None of these","ये स्क्रिप्ट अन्य स्क्रिप्ट को सक्रिय कर सकती हैं","पूरे कार्यक्रम को सक्षम कर सकती हैं","उपरोक्त दोनों","इनमें से कोई नहीं","LibreOffice Calc","MS Word","Scratch","None of these","A recipe","A flow chart","A set of instructions","A control block","Free","Secure","A & B","None of these"
+				"संचरण पथ","आभासी पथ","वर्चुअल सर्किट","सभी एक ही आकार के हैं","स्विच","हब","गेटवे","ये सभी","राउटर","रिपीटर","ब्रिज","ये सभी","डी.एस.एल.","राउटर","डायल-अप मोडेम","उपरोक्त में से कोई नहीं","Google Chrome (गूगल क्रोम)","Internet Explorer (इंटरनेट एक्सप्लोरर)","Mozilla Firefox (मोज़िला फ़ायरफ़ॉक्स)","Notepad (नोटपैड)","लैन (LAN)","मैन (MAN)","वैन (WAN)","एक रसायन","हार्डवेयर से","साफ्टवेयर से","साइबर क्राइम से","इंटरनेट से","कम्‍प्‍यूटर डेवलप्‍ड मैनेजमेंट अप्लिकेशन","कोड डिवीजन म‍ल्टिपल अप्लिकेशन","कोड डिवीजन मल्टिपल एक्‍सेस","कोड डिवीजन मोबाइल एप्लिकेशन","s: कोड डिवीजन मल्टिपल एक्‍सेस (Code Division Multiple Acces","World Whole Web","Wide World Web","Web World Wide","World Wide Web","कलर कूल पेज","कलर कूल पेज","कलर कूल पेज","कलर कूल पेज"
 			],
-			action:"https://docs.google.com/forms/d/e/1FAIpQLSd4g1Vpx2IfH3XugNt1KCEnDbJaBrYCFvrV9JRKq8f5TQhWTw/formResponse",
+			action:"https://docs.google.com/forms/d/e/1FAIpQLScvsApMnOVgyg7q5Td86NfX2lqoNGC-j68frdSGFviFtCQKjQ/formResponse",
 			defaultTags:()=>{
 				return `
 				<input name="entry.1794899332" value="BCCL-JH-ICT2-PAL-094 [ RAJKIYEKRIT SURAT HIGH SCHOOL LOHRA ]">
@@ -45,12 +43,10 @@ var data={
 				<input name="entry.919860739" value="${gender}">
 
 				<input name="pageHistory" value="0,1,2">
-				<input name="fbzx" value="-3634776146481724105">
+				<input name="fbzx" value="-4748842455205634051">
 				`
 			},
-			questionList:[
-			"entry.66599500","entry.207191365","entry.1860937243","entry.384247161","entry.1028720914","entry.1418258534","entry.88740491","entry.1200885993","entry.351384791","entry.1648867255"
-			]
+			questionList:["entry.1023381355","entry.1912779033","entry.444336220","entry.539671116","entry.383549060","entry.1743008018","entry.137442566","entry.985130374","entry.2123499393","entry.2039922152"]
 		}
 	},
 	11:{
@@ -65,9 +61,9 @@ var data={
 
 		form:{
 			options:[
-				"Word Processing Program","Presentation","Spread Sheet Program","None of these",`डेटा स्टोर करने`,`डेट व्यवस्थित करने`,`उपरोक्त दोनों`,`उपरोक्त दोनों`,"एम एस एक्सेल","गूगल शीट","लिब्रेऑफिस कैल्क","एम एस वर्ड","Insert Cell","Delete Cell","Format Celll","इनमे से कोई नहीं","A 16384","IBI","A1","B1","एक्सेल शीट (Excel Sheet)","वर्कशीट (Worksheet)","एक्सेल वर्कशीट (Excel Worksheet)","वर्कबुक (Work Book)","टाइटल बार (Tittle Bar)","मेन्यु बार (Menu Bar)","फॉर्मेटिंग बार (Formatting Bar)","कोई नहीं (None of Above)","फोर्मेट मेन्यु से","डाटा मेन्यु से","टूल मेन्यु से","इनर्स्‍ट मेन्यु से","=","*","–","/","cell","square box","row","column"
+				"गणना करनेवाला","संगणक","हिसाब लगानेवाला","परिगणक","Central Processing Unit","Central Problem Unit","Central Processing Union","इनमें से कोई नहीं","RAM स्पेस","रजिस्टर","बाइट स्पेस","इनमें से सभी","डेटा डिलीट करता है","इनवाइस बनाता है","गणनाएँ और प्रोसैसिंग करता है","इनमें से कोई नहीं","प्रोसैसिंग","अंडरस्टैंडिंग","इंप्यूटिंग","आउटपुटिंग","मेमोरी","स्टोरेज","सी पी यू","इनपुट-आउटपुट यूनिट","बिल गेट्स","चार्ल्स बेबेज","बेल्स पास्कल","जोसेफ जैक्यूर्ड","कंप्यूटर प्रोग्राम लिखना","कंप्यूटर की त्रुटि सुधारना","कंप्यूटर की कार्य क्षमता की जानकारी रखना","कंप्यूटर की कार्य प्रणाली जानना","डिस्क यूनिट","मोडम","ALU","कंट्रोल यूनिट","कंट्रोल यूनिट","मेमोरी यूनिट","ALU","इनमें से कोई नहीं"
 			],
-			action:"https://docs.google.com/forms/d/e/1FAIpQLScTydufM6FdqPvenqHmsc6cFq5SAZFcnijiwRF6nh4OcOYODA/formResponse",
+			action:"https://docs.google.com/forms/d/e/1FAIpQLSd9QbhcMuRcE4wGUhxWAh2EC9VEyXRngDpUjJW-eA6r0U9E-g/formResponse",
 			defaultTags:()=>{
 				return `
 				<input name="entry.1270814050" value="BCCL-JH-ICT2-PAL-094 [ RAJKIYEKRIT SURAT HIGH SCHOOL LOHRA ]">
@@ -80,11 +76,9 @@ var data={
 				<input name="entry.919860739" value="${gender}">
 
 				<input name="pageHistory" value="0,1,2">
-				<input name="fbzx" value="-4495963129255740677">`
+				<input name="fbzx" value="-3628105302655398288">`
 			},
-			questionList:[
-			"entry.1641885463","entry.651444691","entry.827390664","entry.940915900","entry.1787333450","entry.1451887535","entry.1443611257","entry.1582506996","entry.1414099113","entry.363758429"
-			]
+			questionList:["entry.436820855","entry.961565305","entry.1133691690","entry.1676965610","entry.940944953","entry.1604024628","entry.1823095605","entry.1778057451","entry.565209087","entry.526270541"]
 		}
 	},
 
@@ -100,9 +94,9 @@ var data={
 
 		form:{
 			options:[
-				"File","Insert","View","Page Layout","ctrl+F2","ctrl+P","ctrl+S","ctrl+X","Drop-down arrows appear for the header cell in each column.","A filter dialogue box will open with options.","You will see a check list of all the column titles.","Nothing happens.","Sort Data","Data Validation","Advanced Filter","Remove Duplicates","ctrl+F2","ctrl+P","Ctrl +Shift+O","ctrl+X","एक्सेल शीट (Excel Sheet)","वर्कशीट (Worksheet)","एक्सेल वर्कशीट (Excel Worksheet)","वर्कबुक (Work Book)","LibreOffice Calc","LibreOffice Impress","Google Sheet","iWork Numbers","Descending","Largest","Ascending","Smallest","Text to Table","Text to Column","Convert","None of these","क्रमबद्ध रखना","कहीं भी रख देना","1 तथा 2 दोनों","इनमें से कोई नहीं"
+				"आउटपुट","प्रोसेस","इनपुट","सभी","स्विच","हब","गेटवे","ये सभी","राउटर","रिपीटर","ब्रिज","ये सभी","डी.एस.एल.","राउटर","डायल-अप मोडेम","उपरोक्त में से कोई नहीं","वाईफाई हॉटस्पॉट","WiFi इंटरनेट","वाईफाई ज़ोन","उपरोक्त में से कोई नहीं","स्टार","राउटर","बस","लैन","ट्री","रिंग","लैन","स्टार","1","2","3","4","राउटर","स्विच","ब्रिज","मोडेम","केबल के साथ एक नेटवर्क कंप्यूटर","बिना केबल के बी नेटवर्क कंप्यूटर","उपरोक्त दोनों","उपरोक्त में से कोई नहीं"
 			],
-			action:"https://docs.google.com/forms/d/e/1FAIpQLScUJdmPuSDY3oz2bCFWOPcmtGRRweM9OiAZ2Cq07SA5xS3JEw/formResponse",
+			action:"https://docs.google.com/forms/d/e/1FAIpQLSfvt2MKv3s48Y2dbbUh3yTLI8t-fuXmoWWxrIj1s3boKO-C8w/formResponse",
 			defaultTags:()=>{
 				return `
 				<input name="entry.658528083" value="BCCL-JH-ICT2-PAL-094 [ RAJKIYEKRIT SURAT HIGH SCHOOL LOHRA ]">
@@ -115,11 +109,9 @@ var data={
 				<input name="entry.919860739" value="${gender}">
 
 				<input name="pageHistory" value="0,1,2">
-				<input name="fbzx" value="-9086784847810382128">`
+				<input name="fbzx" value="5222254786681806665">`
 			},
-			questionList:[
-			"entry.1703989583","entry.95199612","entry.573589050","entry.1742450868","entry.89122004","entry.2014408939","entry.368016924","entry.963551864","entry.1359435364","entry.751947841"
-			]
+			questionList:["entry.801389343","entry.127040027","entry.1769658295","entry.916818323","entry.1685931697","entry.511414588","entry.1197244354","entry.2006420995","entry.1674221738","entry.2100367973"]
 		}
 	},
 

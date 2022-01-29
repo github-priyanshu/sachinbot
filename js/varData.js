@@ -20,7 +20,7 @@ var data={
 				<input type="text" name="pageHistory" value="0,1,2">
 				<input name="fbzx" value="1032499088421662225">
 			`},
-			questionList:"entry.120938045","entry.652525967","entry.1751042322","entry.789893654","entry.1164422563","entry.1785338221","entry.526640990","entry.1127268951","entry.1479457190","entry.767730450"]
+			questionList:["entry.120938045","entry.652525967","entry.1751042322","entry.789893654","entry.1164422563","entry.1785338221","entry.526640990","entry.1127268951","entry.1479457190","entry.767730450"]
 		}
 	},
 

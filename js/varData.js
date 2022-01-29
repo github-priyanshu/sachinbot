@@ -28,9 +28,9 @@ var data={
 		student:{},
 		form:{
 			options:[
-				"संचरण पथ","आभासी पथ","वर्चुअल सर्किट","सभी एक ही आकार के हैं","स्विच","हब","गेटवे","ये सभी","राउटर","रिपीटर","ब्रिज","ये सभी","डी.एस.एल.","राउटर","डायल-अप मोडेम","उपरोक्त में से कोई नहीं","Google Chrome (गूगल क्रोम)","Internet Explorer (इंटरनेट एक्सप्लोरर)","Mozilla Firefox (मोज़िला फ़ायरफ़ॉक्स)","Notepad (नोटपैड)","लैन (LAN)","मैन (MAN)","वैन (WAN)","एक रसायन","हार्डवेयर से","साफ्टवेयर से","साइबर क्राइम से","इंटरनेट से","कम्‍प्‍यूटर डेवलप्‍ड मैनेजमेंट अप्लिकेशन","कोड डिवीजन म‍ल्टिपल अप्लिकेशन","कोड डिवीजन मल्टिपल एक्‍सेस","कोड डिवीजन मोबाइल एप्लिकेशन","s: कोड डिवीजन मल्टिपल एक्‍सेस (Code Division Multiple Acces","World Whole Web","Wide World Web","Web World Wide","World Wide Web","कलर कूल पेज","कलर कूल पेज","कलर कूल पेज","कलर कूल पेज"
+				"RARP","UDP","FTP","TELNET","Television on net","Network of Telephones","Remote Login","Teleshopping site","नेटवर्क से जुड़े उपकरणों की आसानी से निगरानी, ​​नियंत्रण और रखरखाव करता है।","रिमोट एक्सेस का उपयोग करके त्वरित रूप से समस्या निवारण करता है।","विभिन्न श्रेणियों के उपयोगकर्ताओं के लिए फ़ाइलों और फ़ोल्डरों तक पहुंच अधिकारों को परिभाषित करता है।","उपरोक्त में से सभी","Secure Mail Transfer Protocol","Simple Mail Transfer Protocol","Simple Matrix Transfer Protocol","Simple Mail Transmission Protocol","डाटा ब्लॉक को छोटेएछोटे डाटा पैकेट मे बाँट देता है","डाटा ब्लॉक को उसी रूप मे भेज देता है","दोनो कथन सत्य है","सभी कथन असत्य है","इंडियन प्रोटोकॉल","इंटरनेशनल प्रोटोकॉल","इंटरनेट प्रोटोकॉल","इंकजेट प्रिंटर","डाटा पैकेट पर मंजिल की पता संबंधी सूचना लगाना","डाटा ब्लॉक को छोटे छोटे डाटा पैकेट मे बाटना","दोनो कथन सत्य है","दोनो कथन असत्य है","यह एक कंप्यूटर है","यह कंपनी का नाम है","यह एक प्रोग्राम है","यह एक आवेदन है","माइंड","ब्रेन","कंप्यूटर","क्लोन","Virtual information resourse under sieze","various information read under source","Virtual infrastructure resource under sieze","vital information read under source"
 			],
-			action:"https://docs.google.com/forms/d/e/1FAIpQLScvsApMnOVgyg7q5Td86NfX2lqoNGC-j68frdSGFviFtCQKjQ/formResponse",
+			action:"https://docs.google.com/forms/u/0/d/e/1FAIpQLSf-SX3o8HOXMHMeQs78gJ0sBecLAS-bx-NxwKBq782NI1-j3Q/formResponse",
 			defaultTags:()=>{
 				return `
 				<input name="entry.1794899332" value="BCCL-JH-ICT2-PAL-094 [ RAJKIYEKRIT SURAT HIGH SCHOOL LOHRA ]">
@@ -43,10 +43,10 @@ var data={
 				<input name="entry.919860739" value="${gender}">
 
 				<input name="pageHistory" value="0,1,2">
-				<input name="fbzx" value="-4748842455205634051">
+				<input name="fbzx" value="453240089628962919">
 				`
 			},
-			questionList:["entry.1023381355","entry.1912779033","entry.444336220","entry.539671116","entry.383549060","entry.1743008018","entry.137442566","entry.985130374","entry.2123499393","entry.2039922152"]
+			questionList:["entry.1291644589","entry.1948894946","entry.1582939559","entry.298485085","entry.664653968","entry.19273431","entry.112330752","entry.629957871","entry.1607355656","entry.242180101"]
 		}
 	},
 	11:{

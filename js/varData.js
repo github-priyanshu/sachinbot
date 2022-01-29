@@ -61,9 +61,9 @@ var data={
 
 		form:{
 			options:[
-				"गणना करनेवाला","संगणक","हिसाब लगानेवाला","परिगणक","Central Processing Unit","Central Problem Unit","Central Processing Union","इनमें से कोई नहीं","RAM स्पेस","रजिस्टर","बाइट स्पेस","इनमें से सभी","डेटा डिलीट करता है","इनवाइस बनाता है","गणनाएँ और प्रोसैसिंग करता है","इनमें से कोई नहीं","प्रोसैसिंग","अंडरस्टैंडिंग","इंप्यूटिंग","आउटपुटिंग","मेमोरी","स्टोरेज","सी पी यू","इनपुट-आउटपुट यूनिट","बिल गेट्स","चार्ल्स बेबेज","बेल्स पास्कल","जोसेफ जैक्यूर्ड","कंप्यूटर प्रोग्राम लिखना","कंप्यूटर की त्रुटि सुधारना","कंप्यूटर की कार्य क्षमता की जानकारी रखना","कंप्यूटर की कार्य प्रणाली जानना","डिस्क यूनिट","मोडम","ALU","कंट्रोल यूनिट","कंट्रोल यूनिट","मेमोरी यूनिट","ALU","इनमें से कोई नहीं"
+				"वेबसाइट","ब्राउजर","प्रोटोकोल","हार्डवेयर","साइबर सिक्युरिटी","साइबर कैफे","साइबर लॉ","साइबर होम","Format","File","Tools","Insert","File","View","Edit","Window","Robert Forst","Dennis Ritchie","Jame A. Gosling","E.F Codd.","{}","[]","()","उपरोक्त सभी","K-202","परम","प्रत्युष","B और C दोनों","RPM","DPI","PPI","Hertz","आई.आई.टी., दिल्ली (1973)","आई.आई.टी., बेंगलुरु (1971)","IISCO, (1965)","आई.एस.ओ., कोलकाता (1955)","कोलकाता","मुम्बई","चेन्नई","नई दिल्ली"
 			],
-			action:"https://docs.google.com/forms/d/e/1FAIpQLSd9QbhcMuRcE4wGUhxWAh2EC9VEyXRngDpUjJW-eA6r0U9E-g/formResponse",
+			action:"https://docs.google.com/forms/u/0/d/e/1FAIpQLSf9izoZNt1tIY4uDMLHsQAHc0wBq9c3hWYTPyFt0Lyaf2PZXw/formResponse",
 			defaultTags:()=>{
 				return `
 				<input name="entry.1270814050" value="BCCL-JH-ICT2-PAL-094 [ RAJKIYEKRIT SURAT HIGH SCHOOL LOHRA ]">
@@ -76,9 +76,9 @@ var data={
 				<input name="entry.919860739" value="${gender}">
 
 				<input name="pageHistory" value="0,1,2">
-				<input name="fbzx" value="-3628105302655398288">`
+				<input name="fbzx" value="4725288817512238813">`
 			},
-			questionList:["entry.436820855","entry.961565305","entry.1133691690","entry.1676965610","entry.940944953","entry.1604024628","entry.1823095605","entry.1778057451","entry.565209087","entry.526270541"]
+			questionList:["entry.395599822","entry.1595740650","entry.1297278210","entry.1001556636","entry.562496688","entry.527916883","entry.630957945","entry.1785899149","entry.571095507","entry.147288753"]
 		}
 	},
 
@@ -94,9 +94,9 @@ var data={
 
 		form:{
 			options:[
-				"आउटपुट","प्रोसेस","इनपुट","सभी","स्विच","हब","गेटवे","ये सभी","राउटर","रिपीटर","ब्रिज","ये सभी","डी.एस.एल.","राउटर","डायल-अप मोडेम","उपरोक्त में से कोई नहीं","वाईफाई हॉटस्पॉट","WiFi इंटरनेट","वाईफाई ज़ोन","उपरोक्त में से कोई नहीं","स्टार","राउटर","बस","लैन","ट्री","रिंग","लैन","स्टार","1","2","3","4","राउटर","स्विच","ब्रिज","मोडेम","केबल के साथ एक नेटवर्क कंप्यूटर","बिना केबल के बी नेटवर्क कंप्यूटर","उपरोक्त दोनों","उपरोक्त में से कोई नहीं"
+				"कम्प्यूटर सिस्टम","कम्प्यूटर एथिक्स","कम्प्यूटर सॉफ्टवेयर","कम्प्यूटर नॉलेज","अपडेटेड ऑपरेटिंग सिस्टम","फायरवाल","एंटी वायरस","उपरोक्त सभी","Ctrl+Shift+V","Ctrl + V","Ctrl + Shift + P","Ctrl+P","वैश्विक प्रणाली","द्विघातीय प्रणाली","संरचना","कोई भी नहीं","Present Cellular Module","Practical Current Modulation","Pulse Code Modulation","इनमें से कोई नहीं","Transistor","Receiver","Both A And B","इनमें से कोई नहीं","Frequency","Amplitude","PCM","A तथा B","IEEE 802.6","IEEE 802.15.4","DSSS IEEE 802.11b","IEEE 802.11g","HIPER-LAN","HIPERLAN/2","IEEE 802.11b","AMPS","8","16","4","6"
 			],
-			action:"https://docs.google.com/forms/d/e/1FAIpQLSfvt2MKv3s48Y2dbbUh3yTLI8t-fuXmoWWxrIj1s3boKO-C8w/formResponse",
+			action:"https://docs.google.com/forms/u/0/d/e/1FAIpQLSdH2XYcNw5UsIlB21CLmQBTHrhtZsgzufD2lFdTk_xwMgoS-w/formResponse",
 			defaultTags:()=>{
 				return `
 				<input name="entry.658528083" value="BCCL-JH-ICT2-PAL-094 [ RAJKIYEKRIT SURAT HIGH SCHOOL LOHRA ]">
@@ -109,9 +109,9 @@ var data={
 				<input name="entry.919860739" value="${gender}">
 
 				<input name="pageHistory" value="0,1,2">
-				<input name="fbzx" value="5222254786681806665">`
+				<input name="fbzx" value="4133274402902879998">`
 			},
-			questionList:["entry.801389343","entry.127040027","entry.1769658295","entry.916818323","entry.1685931697","entry.511414588","entry.1197244354","entry.2006420995","entry.1674221738","entry.2100367973"]
+			questionList:["entry.82237902","entry.987771099","entry.193948848","entry.1536010256","entry.157029988","entry.383473744","entry.1870511186","entry.986873314","entry.889966180","entry.802363645"]
 		}
 	},
 
